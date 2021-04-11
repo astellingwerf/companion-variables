@@ -1,0 +1,20 @@
+{
+	"name": "variables",
+	"version": "0.1",
+	"api_version": "1.0.0",
+	"description": "Simply expose a set of variables",
+	"keywords": [],
+	"manufacturer": "Anne Stellingwerf",
+	"product": "Variables",
+	"shortname": "vars",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bitfocus/companion-module-bitfocus-companion.git"
+	},
+	"author": "Anne Stellingwerf <noreply@astellin.io>",
+	"license": "MIT"
+}
